@@ -1,6 +1,6 @@
 {
   "name": "yordalinavm/gatsby-plugin-plausible",
-  "description": "A Gatsby plugin for adding Plausible analytics to your Gatsby website",
+  "description": "A Gatsby plugin for adding Plausible analytics to your Gatsby site",
   "version": "0.1.9",
   "author": "Jonathon Sherrard <jon@devular.com>, Curtis Cummings <curtis@pixelplicity.com>",
   "license": "MIT",
