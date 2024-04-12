@@ -1,10 +1,10 @@
 {
-  "name": "yordalina/gatsby-plugin-plausible",
+  "name": "yordalinavm/gatsby-plugin-plausible",
   "description": "A Gatsby plugin for adding Plausible analytics to your Gatsby website",
   "version": "0.1.9",
   "author": "Jonathon Sherrard <jon@devular.com>, Curtis Cummings <curtis@pixelplicity.com>",
   "license": "MIT",
-  "repository": "yordalina/gatsby-plugin-plausible",
+  "repository": "yordalinavm/gatsby-plugin-plausible",
   "bugs": {
     "url": "https://github.com/devular/gatsby-plugin-plausible/issues"
   },
